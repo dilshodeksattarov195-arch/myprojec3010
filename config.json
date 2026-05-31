@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfalidate",
+        "uuid": 26743850,
+        "checksum": "wozbck"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
